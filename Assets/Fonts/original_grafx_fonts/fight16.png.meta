@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 07ad7dffd0d3b644bab8f4ca5c5ea26b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3712038952745403856
+    second: fight16_0
+  - first:
+      213: -7161198360062952386
+    second: fight16_1
+  - first:
+      213: 4516075923563118606
+    second: fight16_2
+  - first:
+      213: -983578721730357940
+    second: fight16_3
+  - first:
+      213: 2429697263145423252
+    second: fight16_4
+  - first:
+      213: -3048406454592391581
+    second: fight16_5
+  - first:
+      213: -5085922720548179762
+    second: fight16_6
+  - first:
+      213: -9075672195930314485
+    second: fight16_7
+  - first:
+      213: -3025898252497357875
+    second: fight16_8
+  - first:
+      213: -509005569498625005
+    second: fight16_9
+  - first:
+      213: -1409219700548788028
+    second: fight16_10
+  - first:
+      213: -4559204599575393187
+    second: fight16_11
+  - first:
+      213: 1601864922598103005
+    second: fight16_12
+  - first:
+      213: 4976481278188437901
+    second: fight16_13
+  - first:
+      213: -5896155285799276832
+    second: fight16_14
+  - first:
+      213: 7081126269185352350
+    second: fight16_15
+  - first:
+      213: 3474650837777509989
+    second: fight16_16
+  - first:
+      213: 9060034334166530270
+    second: fight16_17
+  - first:
+      213: -7824478187440640790
+    second: fight16_18
+  - first:
+      213: 7507423091626356478
+    second: fight16_19
+  - first:
+      213: -5977644661747898711
+    second: fight16_20
+  - first:
+      213: -2790379604385412678
+    second: fight16_21
+  - first:
+      213: -1415559593416222298
+    second: fight16_22
+  - first:
+      213: 1214032355557690782
+    second: fight16_23
+  - first:
+      213: 550172733245213349
+    second: fight16_24
+  - first:
+      213: 4195523067719793629
+    second: fight16_25
+  - first:
+      213: 3822441121780821780
+    second: fight16_26
+  - first:
+      213: 3996556515178680039
+    second: fight16_27
+  - first:
+      213: 1538669544012312736
+    second: fight16_28
+  - first:
+      213: -1036615195352449604
+    second: fight16_29
+  - first:
+      213: -2013401533370692500
+    second: fight16_30
+  - first:
+      213: 678278009778399446
+    second: fight16_31
+  - first:
+      213: -4122542722347364951
+    second: fight16_32
+  - first:
+      213: 1549475461897133226
+    second: fight16_33
+  - first:
+      213: 5511600032225633249
+    second: fight16_34
+  - first:
+      213: -7053705946852715724
+    second: fight16_35
+  - first:
+      213: 1971227122822915192
+    second: fight16_36
+  - first:
+      213: 5274643173664309925
+    second: fight16_37
+  - first:
+      213: -6647256767660913646
+    second: fight16_38
+  - first:
+      213: 8630500803680560957
+    second: fight16_39
+  - first:
+      213: 7884774187785098405
+    second: fight16_40
+  - first:
+      213: -1464521458358576311
+    second: fight16_41
+  - first:
+      213: 2174390668157210536
+    second: fight16_42
+  - first:
+      213: 997353798637839305
+    second: fight16_43
+  - first:
+      213: -3981214020906536473
+    second: fight16_44
+  - first:
+      213: -6978880127249785762
+    second: fight16_45
+  - first:
+      213: 2283216776346604899
+    second: fight16_46
+  - first:
+      213: -4485438611107187036
+    second: fight16_47
+  - first:
+      213: 1230536369652855487
+    second: fight16_48
+  - first:
+      213: 3397082620744159316
+    second: fight16_49
+  - first:
+      213: 552895902879235553
+    second: fight16_50
+  - first:
+      213: 5782991116707965609
+    second: fight16_51
+  - first:
+      213: 1828304792696311160
+    second: fight16_52
+  - first:
+      213: -8706265993310065039
+    second: fight16_53
+  - first:
+      213: 8164281897734067921
+    second: fight16_54
+  - first:
+      213: -3188741979648973115
+    second: fight16_55
+  - first:
+      213: -6665281092342238391
+    second: fight16_56
+  - first:
+      213: -2683053813577032028
+    second: fight16_57
+  - first:
+      213: 7696446029897440240
+    second: fight16_58
+  - first:
+      213: 8189736407211553039
+    second: fight16_59
+  - first:
+      213: 3872828744558861675
+    second: fight16_60
+  - first:
+      213: -2649678189307942195
+    second: fight16_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fight16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a723d5d303c7cc0800000000000000
+      internalID: -3712038952745403856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c765e78005e9c90800000000000000
+      internalID: -7161198360062952386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e008ca210235cae30800000000000000
+      internalID: 4516075923563118606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4511a22d50a952f0800000000000000
+      internalID: -983578721730357940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4919589a9c408b120800000000000000
+      internalID: 2429697263145423252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366330f0b72e1b5d0800000000000000
+      internalID: -3048406454592391581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec033a66b3c2b69b0800000000000000
+      internalID: -5085922720548179762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092fa7093cbc0280800000000000000
+      internalID: -9075672195930314485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37b6d3299d106d0800000000000000
+      internalID: -3025898252497357875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc651a126afe8f0800000000000000
+      internalID: -509005569498625005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ae421622717ce0800000000000000
+      internalID: -1409219700548788028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c4bf782937ab0c0800000000000000
+      internalID: -4559204599575393187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75e99f8a7fa3610800000000000000
+      internalID: 1601864922598103005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81cdc12b53001540800000000000000
+      internalID: 4976481278188437901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee6469b106ac2ea0800000000000000
+      internalID: -5896155285799276832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ea7c03d6354260800000000000000
+      internalID: 7081126269185352350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eed380780783030800000000000000
+      internalID: 3474650837777509989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b6dc8935bbbd70800000000000000
+      internalID: 9060034334166530270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeceecc5b8ed96390800000000000000
+      internalID: -7824478187440640790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe24fa9689bf2860800000000000000
+      internalID: 7507423091626356478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a10fd9d32b0da0800000000000000
+      internalID: -5977644661747898711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9cc1ca8849649d0800000000000000
+      internalID: -2790379604385412678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9970cbc0cea5ce0800000000000000
+      internalID: -1415559593416222298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc8d2cefb19d010800000000000000
+      internalID: 1214032355557690782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aacf2a9f2b92a700800000000000000
+      internalID: 550172733245213349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb3562500e793a30800000000000000
+      internalID: 4195523067719793629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6796b2f90c0530800000000000000
+      internalID: 3822441121780821780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8ff3d9fe967730800000000000000
+      internalID: 3996556515178680039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f09d4cc37a5510800000000000000
+      internalID: 1538669544012312736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdbe38d8f33d91f0800000000000000
+      internalID: -1036615195352449604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c863d09f5fe04e0800000000000000
+      internalID: -2013401533370692500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ecc7914ab96900800000000000000
+      internalID: 678278009778399446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad0d177c39c9c6c0800000000000000
+      internalID: -4122542722347364951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac109e19b7d08510800000000000000
+      internalID: 1549475461897133226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e327d017032d7c40800000000000000
+      internalID: 5511600032225633249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_35
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43398cf30d33c1e90800000000000000
+      internalID: -7053705946852715724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_36
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874a97bcf943b5b10800000000000000
+      internalID: 1971227122822915192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2433b250c433940800000000000000
+      internalID: 5274643173664309925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_38
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c82c0403330c3a0800000000000000
+      internalID: -6647256767660913646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_39
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d376a1d21c2b5c770800000000000000
+      internalID: 8630500803680560957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4991539585c6d60800000000000000
+      internalID: 7884774187785098405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b99943e79fcabe0800000000000000
+      internalID: -1464521458358576311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_42
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af4f62daccfc2e10800000000000000
+      internalID: 2174390668157210536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_43
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e133eeff47dd00800000000000000
+      internalID: 997353798637839305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_44
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1bf0df0f2efb8c0800000000000000
+      internalID: -3981214020906536473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5e3dff79062f90800000000000000
+      internalID: -6978880127249785762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_46
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3651a53af8d9faf10800000000000000
+      internalID: 2283216776346604899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6722b195580c1c0800000000000000
+      internalID: -4485438611107187036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_48
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb27b5cfe4eb31110800000000000000
+      internalID: 1230536369652855487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_49
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450db1225acd42f20800000000000000
+      internalID: 3397082620744159316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_50
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb2e0f4e74ca700800000000000000
+      internalID: 552895902879235553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_51
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2e92f7cf414050800000000000000
+      internalID: 5782991116707965609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_52
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dcecda5817f5910800000000000000
+      internalID: 1828304792696311160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_53
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ea0b4f4312d2780800000000000000
+      internalID: -8706265993310065039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_54
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d65798312b5d4170800000000000000
+      internalID: 8164281897734067921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_55
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a5ae60105fb3d0800000000000000
+      internalID: -3188741979648973115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_56
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94330d2292a2083a0800000000000000
+      internalID: -6665281092342238391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_57
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aedb70a5c0e3cad0800000000000000
+      internalID: -2683053813577032028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_58
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb900df2e44fca60800000000000000
+      internalID: 7696446029897440240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_59
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01bdeb0fd9c7a170800000000000000
+      internalID: 8189736407211553039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_60
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 9
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d5a5b593d0fb530800000000000000
+      internalID: 3872828744558861675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight16_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca2335b9b37a3bd0800000000000000
+      internalID: -2649678189307942195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fight16_0: -3712038952745403856
+      fight16_1: -7161198360062952386
+      fight16_10: -1409219700548788028
+      fight16_11: -4559204599575393187
+      fight16_12: 1601864922598103005
+      fight16_13: 4976481278188437901
+      fight16_14: -5896155285799276832
+      fight16_15: 7081126269185352350
+      fight16_16: 3474650837777509989
+      fight16_17: 9060034334166530270
+      fight16_18: -7824478187440640790
+      fight16_19: 7507423091626356478
+      fight16_2: 4516075923563118606
+      fight16_20: -5977644661747898711
+      fight16_21: -2790379604385412678
+      fight16_22: -1415559593416222298
+      fight16_23: 1214032355557690782
+      fight16_24: 550172733245213349
+      fight16_25: 4195523067719793629
+      fight16_26: 3822441121780821780
+      fight16_27: 3996556515178680039
+      fight16_28: 1538669544012312736
+      fight16_29: -1036615195352449604
+      fight16_3: -983578721730357940
+      fight16_30: -2013401533370692500
+      fight16_31: 678278009778399446
+      fight16_32: -4122542722347364951
+      fight16_33: 1549475461897133226
+      fight16_34: 5511600032225633249
+      fight16_35: -7053705946852715724
+      fight16_36: 1971227122822915192
+      fight16_37: 5274643173664309925
+      fight16_38: -6647256767660913646
+      fight16_39: 8630500803680560957
+      fight16_4: 2429697263145423252
+      fight16_40: 7884774187785098405
+      fight16_41: -1464521458358576311
+      fight16_42: 2174390668157210536
+      fight16_43: 997353798637839305
+      fight16_44: -3981214020906536473
+      fight16_45: -6978880127249785762
+      fight16_46: 2283216776346604899
+      fight16_47: -4485438611107187036
+      fight16_48: 1230536369652855487
+      fight16_49: 3397082620744159316
+      fight16_5: -3048406454592391581
+      fight16_50: 552895902879235553
+      fight16_51: 5782991116707965609
+      fight16_52: 1828304792696311160
+      fight16_53: -8706265993310065039
+      fight16_54: 8164281897734067921
+      fight16_55: -3188741979648973115
+      fight16_56: -6665281092342238391
+      fight16_57: -2683053813577032028
+      fight16_58: 7696446029897440240
+      fight16_59: 8189736407211553039
+      fight16_6: -5085922720548179762
+      fight16_60: 3872828744558861675
+      fight16_61: -2649678189307942195
+      fight16_7: -9075672195930314485
+      fight16_8: -3025898252497357875
+      fight16_9: -509005569498625005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
