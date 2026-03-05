@@ -30,7 +30,9 @@ public class EnemyScript : MonoBehaviour
         {
             //KUOLLAAN
             enemyAS.PlayOneShot(enemyDeathSound);
-            Destroy(gameObject,1.2f);
+            Destroy(GetComponent<BoxCollider2D>());
+            Destroy(GetComponent<SpriteRenderer>());
+            Destroy(gameObject,2f);
         }
     }
 }

@@ -1,15 +1,17 @@
+using System;
 using UnityEngine;
-using UnityEngine.Audio;
 
 public class PlayerController : MonoBehaviour
 {
 
-    public Rigidbody2D PlayerRigbod2D; 
+    public Rigidbody2D PlayerRigbod2D;
     public float force = 0f;
     public float jumpForce = 0f;
     Vector2 movement;
     bool grounded;
     bool hittable = false;
+
+    int coinAmount = 0;
 
     public AudioClip hyppySound;
     public AudioClip hitSound;
@@ -45,7 +47,7 @@ public class PlayerController : MonoBehaviour
             Debug.Log("HIT");
             playerAS.PlayOneShot(hitSound);
             currentEnemy.TakeDamage(1);
-        } 
+        }
     }
 
     private void FixedUpdate()
@@ -87,6 +89,11 @@ public class PlayerController : MonoBehaviour
             hittable = true;
             currentEnemy = collision.GetComponent<EnemyScript>();
         }
+
+        if (collision.transform.tag == "Coin")
+        {
+            GetCoin(collision.gameObject);
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -98,6 +105,15 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-
+    void GetCoin(GameObject _coin)
+    {
+        coinAmount++;
+        _coin.GetComponent<Coin>().makeSound();
+        Destroy(_coin.GetComponent<SpriteRenderer>());
+        Destroy(_coin.GetComponent<BoxCollider2D>());
+        Destroy(_coin.gameObject, 2);
+        Debug.Log("Coins: " + coinAmount);
+        Console.WriteLine(" jotain ");
+    }
 
 }
