@@ -23,14 +23,14 @@ public class EnemyScript : MonoBehaviour
         health -= _damage;
         CheckDeath();
     }
-
+     
     void CheckDeath()
     {
         if (health <= 0)
         {
             //KUOLLAAN
             enemyAS.PlayOneShot(enemyDeathSound);
-            Destroy(gameObject);
+            Destroy(gameObject,1.2f);
         }
     }
 }
