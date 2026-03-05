@@ -4,20 +4,26 @@ using UnityEngine.Audio;
 public class PlayerController : MonoBehaviour
 {
 
-    public Rigidbody2D PlayerRigbod2D;
+    public Rigidbody2D PlayerRigbod2D; 
     public float force = 0f;
     public float jumpForce = 0f;
     Vector2 movement;
     bool grounded;
+    bool hittable = false;
 
-    public AudioResource hyppySound;
-    public AudioResource hitSound;
-    public AudioResource deathSound;
+    public AudioClip hyppySound;
+    public AudioClip hitSound;
+    public AudioClip deathSound;
+
+    public AudioSource playerAS;
+
+    EnemyScript currentEnemy;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         PlayerRigbod2D = GetComponent<Rigidbody2D>();
+        playerAS = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -29,9 +35,17 @@ public class PlayerController : MonoBehaviour
         if (Input.GetButtonDown("Jump") && grounded)
         {
             Debug.Log("JUMP");
+            playerAS.PlayOneShot(hyppySound);
             PlayerRigbod2D.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
             grounded = false;
         }
+
+        if (Input.GetButtonDown("Fire1") && hittable)
+        {
+            Debug.Log("HIT");
+            playerAS.PlayOneShot(hitSound);
+            currentEnemy.TakeDamage(1);
+        } 
     }
 
     private void FixedUpdate()
@@ -39,9 +53,19 @@ public class PlayerController : MonoBehaviour
         transform.Translate(movement * force * Time.deltaTime);
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Ground")
+        {
+            Debug.Log("NotGrounded");
+            grounded = false;
+        }
+    }
+
+    void OnCollisionStay2D(Collision2D collision)
     {
         //Common Style
+
         if (collision.transform.tag == "Ground")
         {
             Debug.Log("IsGrounded");
@@ -55,13 +79,25 @@ public class PlayerController : MonoBehaviour
         //}
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.transform.tag == "Ground")
+        Debug.Log("Hitting Someone");
+        if (collision.GetComponent<EnemyScript>() != null)
         {
-            Debug.Log("NotGrounded");
-            grounded = false;
+            hittable = true;
+            currentEnemy = collision.GetComponent<EnemyScript>();
         }
     }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.GetComponent<EnemyScript>() != null)
+        {
+            hittable = false;
+            currentEnemy = null;
+        }
+    }
+
+
 
 }
