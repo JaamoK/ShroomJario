@@ -22,11 +22,15 @@ public class PlayerController : MonoBehaviour
 
     EnemyScript currentEnemy;
 
+    GameController gameController;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         PlayerRigbod2D = GetComponent<Rigidbody2D>();
         playerAS = GetComponent<AudioSource>();
+
+        gameController = FindFirstObjectByType<GameController>();
     }
 
     // Update is called once per frame
@@ -120,7 +124,7 @@ public class PlayerController : MonoBehaviour
     void Finish()
     {
         finish = true;
-        Debug.Log("VOITETTIIN");
+        gameController.WinState();
     }
 
 }

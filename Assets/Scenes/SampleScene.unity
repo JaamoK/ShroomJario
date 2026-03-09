@@ -3773,6 +3773,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88a21ac28be93cc4eb8fbe2cf9cc1281, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameController
+  WinScreen: {fileID: 1934805360}
+  PauseScreen: {fileID: 676299866}
 --- !u!1001 &2054244958
 PrefabInstance:
   m_ObjectHideFlags: 0
