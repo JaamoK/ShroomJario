@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     Vector2 movement;
     bool grounded;
     bool hittable = false;
+    bool finish = false;
 
     int coinAmount = 0;
 
@@ -94,6 +95,11 @@ public class PlayerController : MonoBehaviour
         {
             GetCoin(collision.gameObject);
         }
+
+        if (collision.transform.tag == "Finish")
+        {
+            Finish();
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -109,6 +115,12 @@ public class PlayerController : MonoBehaviour
     {
         coinAmount++;
         _coin.GetComponent<Coin>().makeSound();
+    }
+
+    void Finish()
+    {
+        finish = true;
+        Debug.Log("VOITETTIIN");
     }
 
 }
