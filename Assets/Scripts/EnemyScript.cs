@@ -32,7 +32,7 @@ public class EnemyScript : MonoBehaviour
             enemyAS.PlayOneShot(enemyDeathSound);
             Destroy(GetComponent<BoxCollider2D>());
             Destroy(GetComponent<SpriteRenderer>());
-            Destroy(gameObject,2f);
+            Destroy(gameObject,2);
         }
     }
 }

@@ -109,11 +109,6 @@ public class PlayerController : MonoBehaviour
     {
         coinAmount++;
         _coin.GetComponent<Coin>().makeSound();
-        Destroy(_coin.GetComponent<SpriteRenderer>());
-        Destroy(_coin.GetComponent<BoxCollider2D>());
-        Destroy(_coin.gameObject, 2);
-        Debug.Log("Coins: " + coinAmount);
-        Console.WriteLine(" jotain ");
     }
 
 }
